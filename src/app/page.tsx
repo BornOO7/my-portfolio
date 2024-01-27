@@ -36,7 +36,10 @@ export default function Home() {
           width={180}
           height={37}
           priority
-        />
+        /> <br/>
+        <h1>
+          &nbsp; &nbsp; &nbsp; &nbsp; In development, coming soon
+        </h1>
       </div>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
